@@ -1,0 +1,7 @@
+1.Update Os
+2.Install Docker: https://www.youtube.com/watch?v=pm55BUwQ0iE
+3.Wget install:http://webplay.pro/linux/centos/how-to-install-wget-command-centos.html
+4.Java and maven install:https://tecadmin.net/install-apache-maven-on-centos/
+5.Git install:
+6.Clonning command: git clone https://github.com/path/to/project path/to/directory
+7.Image :https://www.youtube.com/watch?v=0nHSgo4YShU

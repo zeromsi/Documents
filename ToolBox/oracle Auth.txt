@@ -1,0 +1,3 @@
+UN:ngfs_poc1
+Pass:ngfs_poc1
+DB:192.168.20.76/BUPRIM
